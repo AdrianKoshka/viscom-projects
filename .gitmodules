@@ -1,0 +1,3 @@
+[submodule "business-card"]
+	path = business-card
+	url = https://github.com/AdrianKoshka/business-card.git
