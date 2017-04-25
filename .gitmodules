@@ -1,3 +1,6 @@
 [submodule "business-card"]
 	path = business-card
 	url = https://github.com/AdrianKoshka/business-card.git
+[submodule "creative-resume"]
+	path = creative-resume
+	url = https://github.com/AdrianKoshka/creative-resume.git
