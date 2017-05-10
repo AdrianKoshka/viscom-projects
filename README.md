@@ -9,4 +9,6 @@ A github repository to keep all my projects for viscom (graphics design).
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-[Business-card](https://github.com/AdrianKoshka/business-card) is under the [GPLv3 License](https://github.com/AdrianKoshka/business-card/blob/master/LICENSE)
+- [Business-card](https://github.com/AdrianKoshka/business-card) is under the [GPLv3 License](https://github.com/AdrianKoshka/business-card/blob/master/LICENSE)
+
+- [Creative Resume](https://github.com/AdrianKoshka/creative-resume) is under the [Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/AdrianKoshka/creative-resume/blob/master/LICENSE)
