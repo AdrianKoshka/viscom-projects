@@ -4,3 +4,6 @@
 [submodule "creative-resume"]
 	path = creative-resume
 	url = https://github.com/AdrianKoshka/creative-resume.git
+[submodule "career-project"]
+	path = career-project
+	url = https://github.com/AdrianKoshka/career-project.git
