@@ -5,10 +5,13 @@ A github repository to keep all my projects for viscom (graphics design).
 
 `$ git clone --recursive https://github.com/AdrianKoshka/viscom-projects.git`
 
-## License: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
+## License
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+Each project in this repo is under it's own license, listed here. This repo just
+aims to bring many related repos under one roof.
 
 - [Business-card](https://github.com/AdrianKoshka/business-card) is under the [GPLv3 License](https://github.com/AdrianKoshka/business-card/blob/master/LICENSE)
+
+- [Career Project](https://github.com/AdrianKoshka/career-project) is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://github.com/AdrianKoshka/career-project/blob/master/LICENSE)
 
 - [Creative Resume](https://github.com/AdrianKoshka/creative-resume) is under the [Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/AdrianKoshka/creative-resume/blob/master/LICENSE)
