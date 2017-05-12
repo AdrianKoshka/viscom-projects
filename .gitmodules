@@ -7,3 +7,6 @@
 [submodule "career-project"]
 	path = career-project
 	url = https://github.com/AdrianKoshka/career-project.git
+[submodule "scholarship-paper"]
+	path = scholarship-paper
+	url = https://github.com/AdrianKoshka/scholarship-paper.git

@@ -17,3 +17,5 @@ aims to bring many related repos under one roof.
 - [Creative Resume](https://github.com/AdrianKoshka/creative-resume) is under the [Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/AdrianKoshka/creative-resume/blob/master/LICENSE)
 
 - [Floss and Art](https://github.com/AdrianKoshka/Papers/tree/master/academic/FAA) is under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://github.com/AdrianKoshka/Papers/blob/master/LICENSE)
+
+- [Scholarship Paper](https://github.com/AdrianKoshka/scholarship-paper) is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://github.com/AdrianKoshka/career-project/blob/master/LICENSE)
