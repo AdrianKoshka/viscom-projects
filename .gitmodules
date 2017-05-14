@@ -10,3 +10,6 @@
 [submodule "scholarship-paper"]
 	path = scholarship-paper
 	url = https://github.com/AdrianKoshka/scholarship-paper.git
+[submodule "vc-existentialism"]
+	path = vc-existentialism
+	url = https://github.com/AdrianKoshka/vc-existentialism.git
