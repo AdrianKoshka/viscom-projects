@@ -13,3 +13,6 @@
 [submodule "vc-existentialism"]
 	path = vc-existentialism
 	url = https://github.com/AdrianKoshka/vc-existentialism.git
+[submodule "nths-papers"]
+	path = nths-papers
+	url = git@github.com:AdrianKoshka/nths-papers.git

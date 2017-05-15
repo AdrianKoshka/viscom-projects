@@ -18,6 +18,8 @@ aims to bring many related repos under one roof.
 
 - [Floss and Art](https://github.com/AdrianKoshka/Papers/tree/master/academic/FAA) is under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://github.com/AdrianKoshka/Papers/blob/master/LICENSE)
 
+- [NTHS Papers](https://github.com/AdrianKoshka/nths-papers) is under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](https://github.com/AdrianKoshka/nths-papers/blob/master/LICENSE)
+
 - [Scholarship Paper](https://github.com/AdrianKoshka/scholarship-paper) is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://github.com/AdrianKoshka/career-project/blob/master/LICENSE)
 
 - [VC-Existentialism](https://github.com/AdrianKoshka/vc-existentialism) is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://github.com/AdrianKoshka/career-project/blob/master/LICENSE)
